@@ -4,7 +4,7 @@
 
 This project analyzes conversation session data to understand user behavior patterns, session durations, and daily active user (DAU) metrics. The analysis includes outlier detection, time-series visualization, and comparative analysis across different time periods.
 
-**Jupyter Notebook:** [tavus-take-home-analysis.ipynb](./tavus-take-home-analysis.ipynb
+**Jupyter Notebook:** [tavus-take-home-analysis.ipynb](./tavus-take-home-analysis.ipynb)
 
 ## Environment Setup
 
