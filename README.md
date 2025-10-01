@@ -1,12 +1,10 @@
 # Tavus Take-Home Assignment
 
-This repository contains data analysis work for Tavus, focusing on conversation session analytics and user engagement metrics.
-
 ## Overview
 
 This project analyzes conversation session data to understand user behavior patterns, session durations, and daily active user (DAU) metrics. The analysis includes outlier detection, time-series visualization, and comparative analysis across different time periods.
 
-**Jupyter Notebook:** [Tavus Take Home Analysis.ipynb](./Tavus Take Home Analysis.ipynb)
+**Jupyter Notebook:** [tavus-take-home-analysis.ipynb](./tavus-take-home-analysis.ipynb
 
 ## Environment Setup
 
