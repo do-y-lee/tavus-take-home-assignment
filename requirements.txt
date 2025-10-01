@@ -1,0 +1,8 @@
+pandas==2.3.3
+numpy==2.3.3
+plotly==6.3.0
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.43
+jupyter==1.1.1
+notebook==7.4.7
+jupyterlab==4.4.9
